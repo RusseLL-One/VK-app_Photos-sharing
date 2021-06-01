@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">E_app</string>
+    <integer name="com_vk_sdk_AppId">7340890</integer>
+    <string name="item_details_last_news">Последняя запись %s</string>
+    <string name="btn_leave_text">Отписаться   %d</string>
+    <string name="leave_dialog_title">Подтверждение</string>
+    <string name="leave_dialog_message">Вы действительно хотите покинуть выбранные сообщества?</string>
+    <string name="leave_dialog_yes">Да</string>
+    <string name="leave_dialog_cancel">Отмена</string>
+    <string name="landing_title">Делитесь фотографиями</string>
+    <string name="landing_description">Поделитесь фотографией на стене, и добавьте к ней описание.</string>
+    <string name="choose_photo_button">Выбрать фото</string>
+    <string name="auth_failed">Не удалось авторизоваться</string>
+    <string name="send_failed">Ошибка отправки записи</string>
+    <string name="send_succeed">Запись успешно отправлена</string>
+    <string name="bottom_sheet_title">Поделиться на стене</string>
+    <string name="bottom_sheet_message_hint">Добавить комментарий</string>
+    <string name="bottom_sheet_send">Отправить</string>
+    <plurals name="followers_plural">
+        <item quantity="one">%s подписчик</item>
+        <item quantity="few">%s подписчика</item>
+        <item quantity="many">%s подписчиков</item>
+    </plurals>
+    <plurals name="friends_plural">
+        <item quantity="one">%s друг</item>
+        <item quantity="few">%s друга</item>
+        <item quantity="many">%s друзей</item>
+    </plurals>
+</resources>
